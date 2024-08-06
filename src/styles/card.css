@@ -29,7 +29,7 @@
 /* CARD */
 .card-container{
     display: flex;
-    width: 650px;
+    width: 850px;
     height: auto;
     background: linear-gradient(to right,#024945, #12a89c); /* #2FEBD4, #DEFFFD*/
     border-radius: 12px;
